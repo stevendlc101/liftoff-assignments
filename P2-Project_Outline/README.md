@@ -14,13 +14,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Features
 
-Log-In & Personal Profile Page
+**Log-In & Personal Profile Page**
 	Users will create an individual log-in and be directed to their personal profile.  Their profile will have a list of “Favorite Films” and a list of “Films to Watch,” both that the user can manipulate and edit.  Favorite Films will also be individually ratable. If an individual likes they can also provide personal details and a link to their own film blog or fan page.
 
-Search
+**Search**
 	Users can search the database for specific movies. Each film will have an individual page that contains director and original release date information. Users can also see others who have added this particular film to their favorites list.
 
-Recommendations
+**Recommendations**
 Registered users can access the page for an individual movie and add to the list of similar films.  They can also use criteria to quantify their recommendations (i.e. similar story, character types, aesthetics, themes, etc.).
 
 ### Technologies
