@@ -8,8 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* Landing Page (https://app.moqups.com/heyjupiter80@yahoo.com/qAXSoDbUgC/view/page/aa9df7b72)
+* New User (https://app.moqups.com/heyjupiter80@yahoo.com/qAXSoDbUgC/view/page/a58c46639)
+* Log In (https://app.moqups.com/heyjupiter80@yahoo.com/qAXSoDbUgC/view/page/aaae4c7b8)
+* User (https://app.moqups.com/heyjupiter80@yahoo.com/qAXSoDbUgC/view/page/af0971a2d)
+* Film Page (https://app.moqups.com/heyjupiter80@yahoo.com/qAXSoDbUgC/view/page/aed26b1b5)
+* New Film (https://app.moqups.com/heyjupiter80@yahoo.com/qAXSoDbUgC/view/page/ac23bd9a9)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2185138
