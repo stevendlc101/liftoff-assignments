@@ -6,8 +6,6 @@ For this assignment, you'll create some initial plans for your project.
 
 ## Submission Instructions
 
-https://github.com/stevendlc101/capstone.git
-
 ### Wireframes
 
 * Landing Page (https://app.moqups.com/heyjupiter80@yahoo.com/qAXSoDbUgC/view/page/aa9df7b72)
@@ -20,3 +18,7 @@ https://github.com/stevendlc101/capstone.git
 ### Project Tracker
 
 https://www.pivotaltracker.com/n/projects/2185138
+
+###Project Repo Link
+
+https://github.com/stevendlc101/capstone.git
