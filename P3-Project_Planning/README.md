@@ -19,6 +19,6 @@ For this assignment, you'll create some initial plans for your project.
 
 https://www.pivotaltracker.com/n/projects/2185138
 
-###Project Repo Link
+### Project Repo Link
 
 https://github.com/stevendlc101/capstone.git
